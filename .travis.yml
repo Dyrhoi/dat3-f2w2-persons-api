@@ -22,6 +22,7 @@ services:
 branches:
   only:
   - master
+  - main
 
 # blocklist: syntax
 # branches:
